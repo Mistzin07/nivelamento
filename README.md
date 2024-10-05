@@ -1,0 +1,1 @@
+No dia 05/10/2024, na Associação São José, foi revisado o conteúdo de HTML (linguagem de marcação) e CSS (linguagem de estilização). Durante a aula, realizamos um nivelamento prático, adaptando o layout para dispositivos móveis e desktops, garantindo a responsividade das páginas web.
